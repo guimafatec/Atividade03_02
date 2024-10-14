@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atividade03_02</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="average_consumption">Consumo Médio (km/L)</string>
+    <string name="quant_liters">Litros no Tanque (L)</string>
+    <string name="autonomy">Autonomia =</string>
+    <string name="calculate">Calcular</string>
+</resources>
